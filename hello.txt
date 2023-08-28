@@ -5,3 +5,4 @@ added this in quick test.
 changed this again to test merge.
 
 hello world
+conflict.
