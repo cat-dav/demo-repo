@@ -8,6 +8,6 @@ More text.
 
 # Local dev
 
-this is a demo
+This is a demo.
 
-1. open tlsdfsfs blah blah
+1. Open text file. Cleaned up text file.
